@@ -37,7 +37,7 @@ We use YOLOv8 for both Q1 and Q2 due to its high performance on small datasets.
 - Convert detected coins to total value.
 
 📈 **Training Stats**  
-> _Insert YOLO training graph here_  
+
 > ![YOLOv8 Training](images/results.png)
 
 
@@ -48,25 +48,25 @@ We use YOLOv8 for both Q1 and Q2 due to its high performance on small datasets.
 - Generate counts per image for Q2 analysis.
 
 📈 **Training Stats**  
-> _Insert YOLO training graph here_  
-> `![YOLOv8 Training](images/results copy.png)`
+
+> ![YOLOv8 Training](images/results copy.png)
 
 ---
 
 ## 📊 Results
 
 ### Q1: Total Sterling Value Per Image
-> _Insert prediction sample & plot_  
-> `![Original image - DB1](images\coins1.png)`  
-> `![Predicted coins value - DB1](images/coins1.jpg)`
-> `![distribution plot- DB1](images\Q1-DB1.PNG)`
-> `![distribution plot- DB2](images\Q1-DB2.PNG)`
+
+> ![Original image - DB1](images\coins1.png)  
+> ![Predicted coins value - DB1](images/coins1.jpg)
+> ![distribution plot- DB1](images\Q1-DB1.PNG)
+> ![distribution plot- DB2](images\Q1-DB2.PNG)
 
 ### Q2: Number of Heads Per Image
-> _Insert prediction sample & plot_  
-> `![original image - DB1](images\coins72.png)`  
-> `![Predicted Head Count - DB1](images\coins72.jpg)`
-> `![distribution plot- DB1](images\Q2-BD1.png)`
-> `![distribution plot- DB2](images\Q2-DB2.png)`
+
+> ![original image - DB1](images\coins72.png)  
+> ![Predicted Head Count - DB1](images\coins72.jpg)
+> ![distribution plot- DB1](images\Q2-BD1.png)
+> ![distribution plot- DB2](images\Q2-DB2.png)
 
 ---
