@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['0', '1', '2', '3', '4', '8']
+
+roboflow:
+  workspace: defecteye
+  project: coin-detection-iu5ve
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/defecteye/coin-detection-iu5ve/dataset/1
