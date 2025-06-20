@@ -58,6 +58,7 @@ We use YOLOv8 for both Q1 and Q2 due to its high performance on small datasets.
 > _Insert prediction sample & plot_  
 > `![Original image - DB1](Data/dataset1/coins1.png)`  
 > `![Predicted coins value - DB1](runs/predict/dataset1_results/coins1.jpg)`
+> `![Original image - DB1](Data/dataset1/coins1.png)`
 
 ### Q2: Number of Heads Per Image
 > _Insert prediction sample & plot_  
