@@ -38,7 +38,7 @@ We use YOLOv8 for both Q1 and Q2 due to its high performance on small datasets.
 
 📈 **Training Stats**  
 > _Insert YOLO training graph here_  
-> `![YOLOv8 Training](images\results.png)`
+> `![YOLOv8 Training](images/results.png)`
 
 ---
 
